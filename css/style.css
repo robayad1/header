@@ -54,7 +54,6 @@ a:hover{
     float: left;
     font-size: 17px;
     font-weight: bold;
-    font-weight: bold;
     text-transform: uppercase;
     font-family: sans-serif;
 }
@@ -62,7 +61,7 @@ a:hover{
 .search{
     width: 330px;
     float: left;
-    margin-left: 120px;
+    margin-left: 100px;
 }
 
 .sear{
